@@ -11,6 +11,7 @@ Develop practical data analysis skills through real-world financial data:
 - Apply statistical concepts to financial metrics
 - Practice API integration and data manipulation
 - Build comprehensive analytical insights from complex datasets
+  
 
 ## Key Metrics Analyzed
 
@@ -39,6 +40,9 @@ Develop practical data analysis skills through real-world financial data:
 - Yahoo Finance API - Live stock price data (3-month historical)
 - Financial Statements - Annual reports for fundamental metrics
 - Market Data - Real-time pricing and volume information
+
+## Visualizations
+
 
 ## 💡Key Findings
 ### Market Capitalization Distribution
