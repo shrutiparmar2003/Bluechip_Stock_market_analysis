@@ -34,7 +34,7 @@ Develop practical data analysis skills through real-world financial data:
 | Dividend Yield          | Annual dividends relative to stock price         |
 | Total Liabilities       | Company debt obligations                         |
 
-<br>
+
 ---
 
 
@@ -46,13 +46,15 @@ Develop practical data analysis skills through real-world financial data:
 - matplotlib - Static visualizations
 - plotly - Interactive dashboards
 - yfinance API - Real-time stock data API
-
+---
 
 ## 📊 Data Sources
 
 - Yahoo Finance API - Live stock price data (3-month historical)
 - Financial Statements - Annual reports for fundamental metrics
 - Market Data - Real-time pricing and volume information
+
+---
 
 ## Visualizations
 
@@ -69,7 +71,7 @@ Develop practical data analysis skills through real-world financial data:
 
 
 
-
+---
 
 
 
@@ -103,6 +105,9 @@ This project demonstrates proficiency in:
 - Financial Literacy: Understanding key investment metrics (ROE, ROCE, P/E)
 - Code Documentation: Professional commenting and project structure
 
-⚠️ Note
+---
+<br>
+
+## ⚠️ Note
 
 Investment Advisory Notice: This analysis is for educational and research purposes only. Investment decisions should be made in consultation with SEBI-registered financial advisors. Past performance does not guarantee future results.
