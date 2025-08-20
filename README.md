@@ -106,8 +106,7 @@ This project demonstrates proficiency in:
 - Code Documentation: Professional commenting and project structure
 
 ---
-<br>
+
 
 ## ⚠️ Note
-
-Investment Advisory Notice: This analysis is for educational and research purposes only. Investment decisions should be made in consultation with SEBI-registered financial advisors. Past performance does not guarantee future results.
+This analysis is for educational and research purposes only. Investment decisions should be made in consultation with SEBI-registered financial advisors. Past performance does not guarantee future results.
