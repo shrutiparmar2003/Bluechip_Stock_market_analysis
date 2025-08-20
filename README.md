@@ -1,5 +1,5 @@
 Overview :
-This project focuses on analysing the performance of 5 bluechip stocks over the past 5 years. These are:
+This project focuses on analysing the performance of 4 bluechip stocks over the past 5 years. These are:
 1. TCS
 2. L&T
 3. Hdfc Bank
